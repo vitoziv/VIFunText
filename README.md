@@ -1,3 +1,3 @@
 # FunText
 
-![Demo gif](https://github.com/vitoziv/VIFunText/master/demo.gif)
+![Demo gif](https://github.com/vitoziv/VIFunText/blob/master/demo.gif?raw=true)
